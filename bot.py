@@ -11,4 +11,4 @@ async def on_ready():
 async def ping(ctx): 
     await ctx.send(f'Your ping is at ---> {round(client.latency * 1000)}')
 
-client.run('NzMwOTgxMjEwNDY5NDMzNDgy.XwfZUg.90tDvhk2Hs63AjSqSVOZyzMXdeg')
+client.run('TOKEN')
